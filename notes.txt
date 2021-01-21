@@ -19,3 +19,23 @@ rm -rf .git
 // start version tracking/control
 // git init
 // creates a new project
+
+// stage the files for a commit
+// git add < file or files >
+
+// use git status to check on file staging
+
+// creating a branch
+// git branch will show you your branches
+// git branch <name>
+// git checkout -b develop
+
+// switch between branches
+// use git checkout <name>
+
+// delete a branch
+// git branch -D develop
+
+
+
+
