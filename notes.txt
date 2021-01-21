@@ -1,0 +1,21 @@
+// git
+// version control system used to track any file. Most notably used in development
+// Git commits are checksumed using SHA-1 meaning no corrupt files without knowing about it.
+
+// Three States of Git
+// - modified
+// file changed, but it has not been committed (ex: normal work, or when saving)
+// - staging
+// marking the files that are going into the next commit snapshot (utilizing git add <>)
+// - commit
+// changes are being stored in the local database (.git?) (such as vm box, docker, computer, etc.)
+
+// list hidden files
+ls -a (or ls -la)
+
+// remove .git
+rm -rf .git
+
+// start version tracking/control
+// git init
+// creates a new project
