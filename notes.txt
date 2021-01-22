@@ -39,6 +39,7 @@ rm -rf .git
 // git reset
 // you can git reset to undo a change that's been added but not committed
 // changes that you've added will be backed out
+// git reset --hard <commit> moves the HEAD to the previous commit
 
 // git revert
 // this allows you to revert a change but it's just another commit without your change
