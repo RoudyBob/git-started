@@ -36,6 +36,12 @@ rm -rf .git
 // delete a branch
 // git branch -D develop
 
-// my boss stinks and I don't really like him ugh.
+// git reset
+// you can git reset to undo a change that's been added but not committed
+// changes that you've added will be backed out
+
+// git revert
+// this allows you to revert a change but it's just another commit without your change
+// you can revert back to the previous one but you can also revert to previous commit (cherry pick)
 
 
