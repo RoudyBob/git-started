@@ -45,4 +45,7 @@ rm -rf .git
 // this allows you to revert a change but it's just another commit without your change
 // you can revert back to the previous one but you can also revert to previous commit (cherry pick)
 
+// to add remote branch
+// check if any exist using git remove -v
+// run git remote add <name of remote stream> repoURL
 
