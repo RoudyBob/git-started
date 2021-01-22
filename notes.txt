@@ -49,3 +49,6 @@ rm -rf .git
 // check if any exist using git remove -v
 // run git remote add <name of remote stream> repoURL
 
+// to push to github
+// git push <name of remote stream> name of branch
+// you must sit on the branch that you are pushing up
